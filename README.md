@@ -1,3 +1,6 @@
+# Modified version by Premiering
+# For ViperHCF (Duncan, Timothy, Nephi, Xeify)
+
 # SkapNightly: a fun fork of [SkapClient](https://nky5223.github.io/SkapClient)
 SkapNightly is a fork of SkapClient made for looks, and customizability. [SkapClient](https://nky5223.github.io/SkapClient) is an unofficial client for the game [skap.io](https://skap.io). This project will likely only receive bug fixes from since the codebase is difficult to work with and there are new things coming :)
 
